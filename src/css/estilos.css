@@ -1,10 +1,10 @@
 body {
-  background-color: rgb(200, 210, 214) (171, 215, 241);
+  background-color: thistle;
 }
 
 /*Selector tag*/
 h1 {
-  color: royalblue;
+  color: darkblue;
   text-align: center;
 }
 
