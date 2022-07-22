@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(200, 210, 214) (171, 215, 241);
+}
+
+/*Selector tag*/
+h1 {
+  color: royalblue;
+  text-align: center;
+}
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: red;
+  font-size: 20px;
+}
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+}
+
+h1 {
+  color: royalblue;
+  text-align: center;
+}
+
+/*Selector Clase*/
+
+.parrafo-color {
+  color: red;
+  font-size: 20px;
+}
+
+/* Selector ID*/
+
+#primer-titulo {
+  text-align: center;
+}
